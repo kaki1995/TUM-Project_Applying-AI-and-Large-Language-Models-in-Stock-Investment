@@ -4,8 +4,6 @@ This repository contains a university project that explores a data-driven workfl
 
 This project was completed as part of the **Advanced Seminar** coursework at the **TUM School of Management, TUM Campus Heilbronn**, under the supervision of **Prof. Dr. Sebastian Müller**, Professor of Finance, and **Christian Breitung**, PhD candidate.
 
-> **Note:** Despite the original repository name, the current implementation focuses on classical machine learning. It does not yet contain a large language model (LLM) component.
-
 ## Project workflow
 
 The analysis is organized into two Jupyter notebooks:
